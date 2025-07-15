@@ -1,7 +1,7 @@
 {
   "data": {
     "fullName": "Elodie Zhang",
-    "logo" : "logo.png",
+    "logo" : "public/images/LOGO.png",
     "email" : "shunfeior@gmail.com",
     "titleArray": [
       "UX/UI Designer",
@@ -19,35 +19,34 @@
       "When not wrestling with Figma, I’m probably: √ Reverse-engineering WeChat’s micro-interactions √ Curating UX Haiku for complex systems √ Mentoring designers on B2B battle scars",
       "Explore my portfolio and let’s connect for collaborations!"
     ],
-    "aboutImage" : "pp.jpg",
+    "aboutImage" : "Elodie-avatar.jpg",
     "skills": 
     [
       {
         "title" : "UX Core Competencies",
         "skillname": [
-          {"name" : "Enterprise SOP Design", "image": "react"}, 
-          {"name" : "Complex Flow Deconstruction", "image": "html"}, 
-          {"name" : "User Journey Mapping", "image": "css"}, 
-          {"name" : "Patentable Interaction Design", "image": "javascript"}, 
-          {"name" : "Design System Architecture", "image": "bs"}]
+          {"name" : "Enterprise SOP Design", "image": "Enterprise SOP Design"}, 
+          {"name" : "Complex Flow Deconstruction", "image": "Complex Flow Deconstruction"}, 
+          {"name" : "User Journey Mapping", "image": "User Journey Mapping"},  
+          {"name" : "Design System Architecture", "image": "Design System Architecture"}]
       },
       {
         "title" : "Design Craft",
         "skillname": [
-          {"name" : "Figma", "image": "node"},
-          {"name" : "User Interview & Testing", "image": "express"}, 
-          {"name" : "Prototype Validation", "image": "npm"},
-          {"name" : "Information Architecture", "image": "mdb"},
-          {"name" : "Design Handoff & QA", "image": "mysql"}]
+          {"name" : "Figma", "image": "Figma"},
+          {"name" : "User Interview & Testing", "image": "User Interview & Testing"}, 
+          {"name" : "Prototype Validation", "image": "Prototype Validation"},
+          {"name" : "Information Architecture", "image": "Information Architecture"},
+          {"name" : "Design Handoff & QA", "image": "Design Handoff & QA"}]
       },
       {
         "title" : "Industry Expertise",
         "skillname": [
-          {"name" : "B2B Dashboard Design", "image": "py"},
-          {"name" : "HR System Optimization", "image": "java"},
-          {"name" : "Auto Community UX", "image": "git"}, 
-          {"name" : "Cloud Platform Interaction", "image": "github"}, 
-          {"name" : "Mobile Design Guidelines", "image": "netlify"}]
+          {"name" : "B2B Dashboard Design", "image": "B2B Dashboard Design"},
+          {"name" : "HR System Optimization", "image": "HR System Optimization"},
+          {"name" : "Auto Community UX", "image": "Auto Community UX"}, 
+          {"name" : "Cloud Platform Interaction", "image": "Cloud Platform Interaction"}, 
+          {"name" : "Mobile Design Guidelines", "image": "Mobile Design Guidelines"}]
       }
     ],
     "projects" : [
@@ -55,7 +54,7 @@
         "projectName" : "Retail Operation Dashboard",
         "projectType" : "B2B Platform · 0→1 Design",
         "projectImage" : [
-        "Project5/1.png"
+        "Project1/Dashboard-cover.jpg"
       ],
         "designFocus" : [
           {"name" : "Workflow Digitization", "image": "Workflow Digitization"}, 
@@ -64,13 +63,13 @@
         ],
         "description" : "Built from scratch for Lanchuang Tech, this retail management platform standardized asset management and reduced cross-role communication time by 40%. Featured in 200+ stores across China.",
         "githubLink" : "",
-        "liveLink" : "https://profilex.dev/"
+        "liveLink" : "https://www.topwinchance.com/"
       },
       {
         "projectName" : "Zhuge Recruitment Platform",
         "projectType" : "HR Tech · Full-cycle Design",
         "projectImage" : [
-        "Project6/1.png"
+        "Project2/Zhuge-cover.jpg"
       ],
         "techStack" : [
           {"name" : "Process Simplification", "image": "Process Simplification"}, 
@@ -85,7 +84,7 @@
         "projectName" : "Geometry Auto Community Revamp",
         "projectType" : "Consumer App · Engagement Design",
         "projectImage" : [
-        "Project7/1.png"
+        "Project3/Geometry-cover.jpg"
       ],
         "techStack" : [
           {"name" : "Community Gamification", "image": "Community Gamification"}, 
@@ -94,7 +93,7 @@
         ],
         "description" : "Increased user activity by 45% through redesigned community module. Implemented Q&A ecosystem and reward mechanics that boosted authentic UGC by 3x while reducing official content dependency.",
         "githubLink" : "",
-        "liveLink" : ""
+        "liveLink" : "https://www.geometryauto.com/"
       }
     ],
     "contactParagraph" : "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.", 
