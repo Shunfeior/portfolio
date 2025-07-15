@@ -1,7 +1,7 @@
 {
   "data": {
     "fullName": "Elodie Zhang",
-    "logo" : "public/images/LOGO.png",
+    "logo" : "public/images/logo/LOGO.png",
     "email" : "shunfeior@gmail.com",
     "titleArray": [
       "UX/UI Designer",
@@ -19,7 +19,7 @@
       "When not wrestling with Figma, I’m probably: √ Reverse-engineering WeChat’s micro-interactions √ Curating UX Haiku for complex systems √ Mentoring designers on B2B battle scars",
       "Explore my portfolio and let’s connect for collaborations!"
     ],
-    "aboutImage" : "Elodie-avatar.jpg",
+    "aboutImage" : "public/images/about/Elodie-avatar.jpg",
     "skills": 
     [
       {
